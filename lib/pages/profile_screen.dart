@@ -39,7 +39,7 @@ class _ProfileState extends State<Profile> {
                       style:
                           TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
                 ),
-                Text('(+90)531 210 4770')
+                Text('(+90) 123 456 7890')
               ],
             ),
           ),
